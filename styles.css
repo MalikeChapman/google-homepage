@@ -1,0 +1,48 @@
+input {
+    width: 500px;
+}
+
+#main_div {
+  margin: auto;
+  margin-top: 10%;
+  width: 50%;
+  text-align: center;
+  
+}
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+} 
+ #search_bar1{
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   
+} 
+
+#logo {
+    width: 300px;
+}
+#google_search{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#lucky{
+    margin-left: 20px;
+    margin-right: 20px;
+
+ }
+ .left {
+     position: absolute;
+     float: left;
+     top: 0%;
+ }
+ li{
+     display: inline;
+     list-style: none;
+     margin: 0, 10, 0, 10;
+     
+ }
